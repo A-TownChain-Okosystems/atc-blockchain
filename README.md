@@ -144,3 +144,6 @@ Dieses Projekt nutzt das **ATC-LIC Lizenzmodell** — ein monetarisiertes, auton
 - [ATC-LIC — System & Hardware Licenses](https://github.com/A-TownChain-Okosystems/a-townchain-os-docs/blob/main/docs/standards/ATC-LIC-SYSTEM_HARDWARE_LICENSE.md)
 - [Compliance-Handbuch (BaFin)](https://github.com/A-TownChain-Okosystems/a-townchain-os-docs/blob/main/docs/compliance/COMPLIANCE_HANDBUCH.md)
 - [Lizenz-Übersicht](https://github.com/A-TownChain-Okosystems/a-townchain-os-docs/blob/main/docs/LICENSING_OVERVIEW.md)
+
+## Abhängigkeiten
+- [`A-TownChain-Okosystems/atc-vm`](https://github.com/A-TownChain-Okosystems/atc-vm)
